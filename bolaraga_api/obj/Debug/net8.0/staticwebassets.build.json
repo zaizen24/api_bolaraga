@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "STFzA+qz2UJbwRkOseY2xrGSF8m+nnrrCdBctyJvnTs=",
+  "Source": "bolaraga_api",
+  "BasePath": "_content/bolaraga_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
